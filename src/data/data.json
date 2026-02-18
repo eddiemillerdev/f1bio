@@ -1,0 +1,44 @@
+{
+  "featuredEvent": {
+    "title": "FORMULA 1 GRAND PRIX DE MONACO 2026",
+    "location": "Monte Carlo, Monaco",
+    "date": "2026-05-24T14:00:00Z",
+    "ticketStatus": "Available"
+  },
+  "ticketLinks": [
+    { "flag": "🇧🇭", "raceName": "Bahrain Grand Prix", "priceFrom": "$295", "buyUrl": "#", "availability": "Available" },
+    { "flag": "🇸🇦", "raceName": "Saudi Arabian Grand Prix", "priceFrom": "$310", "buyUrl": "#", "availability": "Limited" },
+    { "flag": "🇦🇺", "raceName": "Australian Grand Prix", "priceFrom": "$275", "buyUrl": "#", "availability": "Available" },
+    { "flag": "🇯🇵", "raceName": "Japanese Grand Prix", "priceFrom": "$350", "buyUrl": "#", "availability": "Sold Out" },
+    { "flag": "🇨🇳", "raceName": "Chinese Grand Prix", "priceFrom": "$260", "buyUrl": "#", "availability": "Available" },
+    { "flag": "🇺🇸", "raceName": "Miami Grand Prix", "priceFrom": "$425", "buyUrl": "#", "availability": "Limited" },
+    { "flag": "🇮🇹", "raceName": "Emilia Romagna Grand Prix", "priceFrom": "$280", "buyUrl": "#", "availability": "Available" },
+    { "flag": "🇲🇨", "raceName": "Monaco Grand Prix", "priceFrom": "$550", "buyUrl": "#", "availability": "Limited" },
+    { "flag": "🇪🇸", "raceName": "Spanish Grand Prix", "priceFrom": "$245", "buyUrl": "#", "availability": "Available" },
+    { "flag": "🇬🇧", "raceName": "British Grand Prix", "priceFrom": "$320", "buyUrl": "#", "availability": "Sold Out" }
+  ],
+  "socialLinks": [
+    { "platform": "Instagram", "url": "https://instagram.com", "icon": "Instagram" },
+    { "platform": "Twitter / X", "url": "https://x.com", "icon": "Twitter" },
+    { "platform": "YouTube", "url": "https://youtube.com", "icon": "Youtube" },
+    { "platform": "TikTok", "url": "https://tiktok.com", "icon": "Music" },
+    { "platform": "Facebook", "url": "https://facebook.com", "icon": "Facebook" }
+  ],
+  "updates": [
+    {
+      "title": "2026 REGULATION CHANGES CONFIRMED",
+      "snippet": "The FIA has officially confirmed sweeping aerodynamic and power unit regulation changes for the 2026 season, promising closer racing.",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "EARLY BIRD TICKETS NOW LIVE",
+      "snippet": "Secure your seats at a discount — early bird pricing is available for select European rounds until March 31st.",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "NEW SPRINT FORMAT ANNOUNCED",
+      "snippet": "Six sprint weekends are confirmed for 2026, including Monaco, Silverstone, and COTA.",
+      "date": "2026-02-05"
+    }
+  ]
+}
